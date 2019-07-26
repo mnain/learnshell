@@ -1,2 +1,2 @@
 # learnshell
-Shell scripts
+Shell scripts to learn bash
