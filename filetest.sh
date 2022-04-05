@@ -6,8 +6,3 @@ if [ -f $fName ]; then
 else
         echo ${fName} does not exist
 fi
-[mnain@pt-ssb-sandbox-1 shell]$ cat a.sh
-#!/bin/bash
-
-bashVer=$(bash --version)
-echo ${bashVer}
